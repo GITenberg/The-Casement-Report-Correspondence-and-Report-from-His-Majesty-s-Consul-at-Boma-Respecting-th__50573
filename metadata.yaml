@@ -1,4 +1,8 @@
 _repo: The-Casement-Report-Correspondence-and-Report-from-His-Majesty-s-Consul-at-Boma-Respecting-th__50573
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50573-h/images/cover.jpg
 creator:
   author:
     agent_name: Casement, Roger
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5652
     wikipedia: http://en.wikipedia.org/wiki/Roger_Casement
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50573#The-Casement-Report-Correspondence-and-Report-from-His-Majesty-s-Consul-at-Boma-Respecting-th_
 gutenberg_issued: '2015-11-29'
 gutenberg_type: Text
 identifiers:
